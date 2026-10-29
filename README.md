@@ -2,7 +2,7 @@
 
 **Laboratorio interactivo de Álgebra Lineal que muestra, paso a paso, cómo se obtiene cada resultado.**
 
-🔗 **Demo en línea:** https://TU-USUARIO.github.io/NOMBRE-DEL-REPO/
+🔗 **Demo en línea:** https://juanchiki.github.io/MatrixLab/
 
 MatrixLab es una aplicación web hecha con **HTML, CSS y JavaScript puro**: sin Node, sin dependencias, sin instalación y sin backend. Se abre con doble clic en `index.html`.
 
