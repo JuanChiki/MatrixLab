@@ -1,0 +1,12 @@
+{
+  "name": "matrixlab-web",
+  "version": "1.0.0",
+  "description": "MatrixLab: laboratorio interactivo de Álgebra Lineal (versión web, sin dependencias)",
+  "type": "module",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "build": "python3 tools/bundle.py . js/main.js app.js",
+    "test": "node --test tests/*.test.js"
+  },
+  "license": "MIT"
+}
